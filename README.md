@@ -22,3 +22,4 @@ A browser-based implementation of the supplied Software Requirements Specificati
 - `style.css` — design and responsive layout
 - `script.js` — library management logic and local storage
 # SR
+# SR
